@@ -2,7 +2,7 @@
 
 ## 🧠 Task Summary
 
-You are given a large JSON file (`huge_100mb.json`, ~100MB, 162k+ entries) stored as a string or read from disk.
+You are given a large JSON file (`mock.json`, ~100MB, 162k+ entries) stored as a string or read from disk.
 
 ### 🎯 Goal:
 Implement an efficient solution to check whether the file content is valid JSON.
