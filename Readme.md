@@ -25,5 +25,5 @@ Implement an efficient solution to check whether the file content is valid JSON.
 ## 🧪 Example
 
 ```ts
-const isValid = await isValidJsonFile('./huge_100mb.json')
+const isValid = await isValidJsonFile('./mock.json')
 console.log(isValid) // true
